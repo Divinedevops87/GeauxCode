@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import React, { useState } from 'react';
 import { Button } from '@onlook/ui/button';
 import { Card, CardContent, CardHeader, CardTitle } from '@onlook/ui/card';
 import { Input } from '@onlook/ui/input';
